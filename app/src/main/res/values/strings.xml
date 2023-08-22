@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Absensi</string>
+    <string name="Nama_PT">PT X</string>
+    <string-array name="navigation_drawer_items_array">
+        <item>Absensi</item>
+        <item>Absensi</item>
+        <item>Absensi</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
